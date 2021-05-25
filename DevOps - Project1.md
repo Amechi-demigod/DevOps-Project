@@ -1,7 +1,7 @@
 ```
 cd ~/Downloads
 sudo chmod 0400 Project1.pem
-ssh -i AWSLINUX.pem ubuntu@3.14.5.16
+ssh -i Project1.pem ubuntu@3.14.5.16
 ```
 
 ```
